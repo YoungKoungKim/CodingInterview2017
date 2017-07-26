@@ -168,7 +168,7 @@ public class Sort {
 		int k;
 		while (h >= 1) {
 			for (int i = 0; i < h; i++) {
-				// 부분 삽입 정렬 수행4
+				// 부분 삽입 정렬 수행
 				for (int j = i + h; j < A.length; j = j + h) {
 					temp = A[j];
 					k = j - h;
