@@ -1,7 +1,5 @@
 //배열기반 구현
 //사이즈 고정
-package basic;
-
 import java.util.Scanner;
 
 public class IntStack {
