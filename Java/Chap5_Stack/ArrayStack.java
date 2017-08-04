@@ -1,5 +1,3 @@
-package basic;
-
 //배열 기반 구현
 public class ArrayStack<T> {
 	private T[] arr;
