@@ -1,4 +1,6 @@
-package exercise;
+/*
+숫자야구게임
+*/
 
 import java.util.ArrayList;
 import java.util.Collections;
